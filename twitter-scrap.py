@@ -13,10 +13,10 @@ import time
 
 
 def create_api():
-    consumer_key = "T2otsErpd5UpkQpu5vFI90Q88"
-    consumer_secret = "giAtuCgIgOKO1iOHfjlhgb90N1mz0Uw15aT77z47znnv6Yt5RA"
-    access_token = "234650556-LJoApmKe5rWggfAhaMGeh8XUYzSiYhVCapilC7px"
-    access_token_secret = "qrdqTKlo99so9bnLAgegZGAVBUIvgCBVfBzd1bB8huNYs"
+    consumer_key = "#######"
+    consumer_secret = "########"
+    access_token = "#########################"
+    access_token_secret = "######################"
 
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
