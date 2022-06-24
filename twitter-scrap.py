@@ -6,10 +6,10 @@ import time
 
 # Create API object
 
-# API KEY  - T2otsErpd5UpkQpu5vFI90Q88
-# API SECRET KEY - giAtuCgIgOKO1iOHfjlhgb90N1mz0Uw15aT77z47znnv6Yt5RA
-# Access Token - 234650556-LJoApmKe5rWggfAhaMGeh8XUYzSiYhVCapilC7px
-# Access token Key - qrdqTKlo99so9bnLAgegZGAVBUIvgCBVfBzd1bB8huNYs
+# API KEY  - ######
+# API SECRET KEY - ############################
+# Access Token - ############################
+# Access token Key - ############################################
 
 
 def create_api():
